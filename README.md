@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Ethan, an entry-level software and data engineer based in the US, California.
+
+I'm most interested in gleaming insight from data patterns and making cool apps and visuals.
