@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Ethan, an entry-level software and data engineer based in the US, California.
 
-I'm most interested in gleaming insight from data patterns and making cool apps and visuals.
+I'm most interested interested in building seamless tools, and master data wizardry.
