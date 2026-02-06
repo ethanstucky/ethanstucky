@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 My name is Ethan, an entry-level software and data engineer based in the US, California.
 
 I'm most interested interested in building seamless tools, and master data wizardry.
+
+As of 2/6/2026 The Dropzone Weather repository is private due to an API key leak in the logic code, A live demo will be linked here:
